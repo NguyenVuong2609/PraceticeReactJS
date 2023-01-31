@@ -1,0 +1,13 @@
+.listMovie {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+}
+.movies {
+    width: 20%;
+}
+.movies img {
+    max-width: 100%;
+}
